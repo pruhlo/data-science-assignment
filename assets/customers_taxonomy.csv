@@ -1,0 +1,172 @@
+Hexacarboxylic acids and derivative,C000296,,,,
+Peptide,C000034,,C000034,C000034,
+Tyrosine and derivative,C000431,C000431,,C000431,
+Phenylalanine and derivative,C000432,C000432,,C000432,
+Glutamic acid and derivative,C000432,,,,
+Asparagine and derivative,C000431,,,,
+Aspartic acid and derivative,C000431,,,,
+Isoleucine and derivative,C000433,,,,
+Leucine and derivative,C000432,C000432,C000432,C000432,
+Proline and derivative,C000432,C000432,,C000432,
+N-acyl-L-alpha-amino acid,C000414,,,,
+Alpha amino acid amide,C000230,C000230,C000230,C000230,
+Amphetamines and derivative,C000018,C000018,,C000018,
+N-acylpyrrolidine,1,1,,1,
+Pyrrolidinecarboxamide,C000225,C000225,,C000225,
+Aralkylamine,1,,,,
+1-hydroxy-2-unsubstituted benzenoid,1,1,,1,
+N-acyl amine,C000109,C000109,C000109,C000109,
+Tertiary carboxylic acid amide,1,1,,1,1
+Guanidine,1,1,,1,
+Primary carboxylic acid amide,1,,,1,
+Amino acid,1,,,,
+Secondary carboxylic acid amide,1,1,1,1,1
+Carboxylic acid,1,,,,
+Carboximidamide,1,1,,1,
+Azacyclic compound,C000413,C000413,C000413,C000413,C000413
+Carbonyl compound,C000183,C000183,C000183,C000183,C000183
+Hydrocarbon derivative,1,1,1,1,1
+Imine,1,,,1,
+Organopnictogen compound,1,1,,1,1
+Monoalkylamine,C000046,,,,
+Organic oxide,1,1,1,1,1
+Alpha peptide,1,,1,1,
+Alpha-amino acid amide,1,1,1,1,
+Alpha-amino acid or derivative,1,1,1,1,1
+Amine,1,,,,
+Amino acid or derivative,1,,,,
+Amphetamine or derivative,1,1,,1,
+Aromatic heteromonocyclic compound,1,,,,
+Asparagine or derivative,1,,,,
+Aspartic acid or derivative,1,,,,
+Azacycle,1,1,1,1,1
+Benzenoid,1,1,1,1,
+Carbonyl group,1,1,1,1,1
+Carboxamide group,1,1,1,1,1
+Carboxylic acid derivative,1,,1,1,1
+Fatty acyl,1,1,1,1,
+Fatty amide,1,1,1,1,
+Glutamic acid or derivative,1,,,,
+Hexacarboxylic acid or derivative,1,,,,
+Isoleucine or derivative,1,,,,
+Leucine or derivative,1,1,1,1,
+Monocyclic benzene moiety,1,1,,1,
+N-acyl-alpha amino acid or derivative,1,1,1,1,
+N-acyl-alpha-amino acid,1,,,,
+N-acyl-amine,1,1,1,1,
+N-acyl-l-alpha-amino acid,1,,,,
+N-substituted-alpha-amino acid,1,1,1,1,
+Organic nitrogen compound,1,1,1,1,1
+Organic oxygen compound,1,1,1,1,1
+Organoheterocyclic compound,1,1,1,1,1
+Organonitrogen compound,1,1,1,1,1
+Organooxygen compound,1,1,1,1,1
+Phenol,1,1,,1,
+Phenylalanine or derivative,1,1,,1,
+Polypeptide,1,,1,1,
+Primary aliphatic amine,1,,,,
+Primary amine,1,,,,
+Proline or derivative,1,1,,1,
+Pyrrolidine,1,1,,1,
+Pyrrolidine carboxylic acid or derivative,1,1,,1,
+Pyrrolidine-2-carboxamide,1,1,,1,
+Tyrosine or derivative,1,1,,1,
+Histidine and derivative,,C000431,,,
+N-acyl-alpha amino acids and derivative,,C000118,C000118,C000118,
+Tryptamines and derivative,,C000018,C000018,,
+Serine and derivative,,C000431,,C000431,
+3-alkylindole,,1,1,,
+Substituted pyrrole,,1,1,,
+Pyrrolidine-2-one,,C000303,,,
+Semicarbazide,,1,,,
+Imidazole,,1,,,
+Hydrazinecarboxamide,,1,,,
+Heteroaromatic compound,,1,1,1,
+Organic carbonic acids and derivative,,C000036,,,
+Lactam,,1,,,1
+Carboxylic acid hydrazide,,1,,,
+"Propargyl-type 1,3-dipolar organic compound",,1,,,
+Dialkyl ether,,1,,,
+Primary alcohol,,1,1,1,
+2-pyrrolidone,,1,,,
+Alcohol,,1,1,1,1
+Alpha-oligopeptide,,1,,,1
+Aromatic heteropolycyclic compound,,1,1,1,
+Azole,,1,,,
+Carbonic acid derivative,,1,,1,
+Ether,,1,,,
+Histidine or derivative,,1,,,
+Indole,,1,1,,
+Indole or derivative,,1,1,,
+"Organic 1,3-dipolar compound",,1,,,
+Pyrrole,,1,1,,
+Pyrrolidone,,1,,,
+Serine or derivative,,1,,1,
+Triptan,,1,1,,
+Valine and derivative,,,C000431,,
+N-formyl-alpha amino acid,,,C000296,,
+Alanine and derivative,,,C000431,C000431,
+N-acylethanolamine,,,1,,
+Alanine or derivative,,,1,1,
+Alkanolamine,,,1,,
+N-formyl-alpha amino acid or derivative,,,1,,
+N-formyl-alpha-amino acid,,,1,,
+Valine or derivative,,,1,,
+Naphthalene,,,,1,
+Chlorobenzene,,,,1,
+Aryl chloride,,,,1,
+Pyridines and derivative,,,,C000008,
+Acetamide,,,,1,
+Urea,,,,1,
+Organochloride,,,,1,
+Aryl halide,,,,1,
+Halobenzene,,,,1,
+Organohalogen compound,,,,1,
+Pyridine,,,,1,
+A27289,,,,1,
+Oligopeptide,,,,,C000483
+Macrolactam,,,,,1
+Alpha amino acids and derivative,,,,,C000006
+Secondary alcohol,,,,,1
+Aliphatic heteromonocyclic compound,,,,,1
+Cyclosporin-backbone,,,,,1
+A27302,,,,,1
+A27299,,,,,1
+A27294,,,,,1
+A27291,,,,,1
+A27298,,,,,1
+A27301,,,,,1
+A27292,,,,,1
+A27303,,,,,1
+A27293,,,,,1
+A27297,,,,,1
+A27295,,,,,1
+A27300,,,,,1
+A27296,,,,,1
+A15818,,,,,1
+A27308,,,,,1
+A15814,,,,,1
+A2804,,,,,1
+A27307,,,,,1
+A15809,,,,,1
+A15813,,,,,1
+A4107,,,,,1
+A27306,,,,,1
+A27304,,,,,1
+A15898,,,,,1
+A15904,,,,,1
+A27309,,,,,1
+A27305,,,,,1
+A15868,,,,,1
+A15905,,,,,1
+A15815,,,,,1
+A16121,,,,,1
+A15990,,,,,1
+A27311,,,,,1
+A27290,,,,,1
+A16323,,,,,1
+A15938,,,,,1
+A27310,,,,,1
+A16384,,,,,1
+A18357,,,,,1
+A16411,,,,,1
